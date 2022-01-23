@@ -1,2 +1,2 @@
 # Term-Project
-It is a term project on Biomaterials 
+It is a term project on Bionics
